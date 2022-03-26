@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 285a75b498dbcc74a826a362430bea04, type: 3}
+  m_Name: footsteps
+  m_EditorClassIdentifier: 
+  Clips:
+  - {fileID: 8300000, guid: 9cb17815b85ca864fbc71fd396628e19, type: 3}
+  - {fileID: 8300000, guid: 7334e3c687e378541a325feac083c803, type: 3}
+  - {fileID: 8300000, guid: 1d016153080cb294e9ba65dad47eadf5, type: 3}
+  - {fileID: 8300000, guid: 7716f3ceec32df34981aa7dea8936db0, type: 3}
+  - {fileID: 8300000, guid: 95993804abcc9a5439807f65836d77ad, type: 3}
+  - {fileID: 8300000, guid: 6bbb804176fe9934b954703ce1a5f649, type: 3}
+  volume:
+    _minValue: 1
+    _maxValue: 1
+  ptich:
+    _minValue: 1
+    _maxValue: 1
+  distance:
+    _minValue: 1
+    _maxValue: 1000
+  Mixer: {fileID: 24300002, guid: 66542d279f91a1f4fbc290ad871d3c29, type: 2}

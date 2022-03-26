@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b250035a0136784daeebc63a971e38f, type: 3}
+  m_Name: new objective
+  m_EditorClassIdentifier: 
+  ObjectiveHeadline: find first pick up
+  ObjectiveDiscrpsion: 'You need to take this crate and bring it to a safe place.
+
+
+    Additional
+    instructions will follow.
+
+    
+
+    Expect a large amount of zombies in the
+    area to behave carefully'
+  firstImage: {fileID: 21300000, guid: abea6a4f78c3c4748ad402ad5d51a30f, type: 3}
+  SecondImage: {fileID: 21300000, guid: f655a6761c10dab4f9434a1011d018e4, type: 3}
+  MissionAccomplished: 0
